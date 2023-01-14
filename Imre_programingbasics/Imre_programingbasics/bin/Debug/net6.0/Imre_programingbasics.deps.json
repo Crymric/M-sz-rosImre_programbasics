@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Imre_programingbasics/1.0.0": {
+        "runtime": {
+          "Imre_programingbasics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Imre_programingbasics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\3dstu\Desktop\Projektek\M-sz-rosImre_programbasics\Imre_programingbasics\Imre_programingbasics\bin\Debug\net6.0\Imre_programingbasics.exe
+C:\Users\3dstu\Desktop\Projektek\M-sz-rosImre_programbasics\Imre_programingbasics\Imre_programingbasics\bin\Debug\net6.0\Imre_programingbasics.deps.json
+C:\Users\3dstu\Desktop\Projektek\M-sz-rosImre_programbasics\Imre_programingbasics\Imre_programingbasics\bin\Debug\net6.0\Imre_programingbasics.runtimeconfig.json
+C:\Users\3dstu\Desktop\Projektek\M-sz-rosImre_programbasics\Imre_programingbasics\Imre_programingbasics\bin\Debug\net6.0\Imre_programingbasics.dll
+C:\Users\3dstu\Desktop\Projektek\M-sz-rosImre_programbasics\Imre_programingbasics\Imre_programingbasics\bin\Debug\net6.0\Imre_programingbasics.pdb
+C:\Users\3dstu\Desktop\Projektek\M-sz-rosImre_programbasics\Imre_programingbasics\Imre_programingbasics\obj\Debug\net6.0\Imre_programingbasics.csproj.AssemblyReference.cache
+C:\Users\3dstu\Desktop\Projektek\M-sz-rosImre_programbasics\Imre_programingbasics\Imre_programingbasics\obj\Debug\net6.0\Imre_programingbasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3dstu\Desktop\Projektek\M-sz-rosImre_programbasics\Imre_programingbasics\Imre_programingbasics\obj\Debug\net6.0\Imre_programingbasics.AssemblyInfoInputs.cache
+C:\Users\3dstu\Desktop\Projektek\M-sz-rosImre_programbasics\Imre_programingbasics\Imre_programingbasics\obj\Debug\net6.0\Imre_programingbasics.AssemblyInfo.cs
+C:\Users\3dstu\Desktop\Projektek\M-sz-rosImre_programbasics\Imre_programingbasics\Imre_programingbasics\obj\Debug\net6.0\Imre_programingbasics.csproj.CoreCompileInputs.cache
+C:\Users\3dstu\Desktop\Projektek\M-sz-rosImre_programbasics\Imre_programingbasics\Imre_programingbasics\obj\Debug\net6.0\Imre_programingbasics.dll
+C:\Users\3dstu\Desktop\Projektek\M-sz-rosImre_programbasics\Imre_programingbasics\Imre_programingbasics\obj\Debug\net6.0\refint\Imre_programingbasics.dll
+C:\Users\3dstu\Desktop\Projektek\M-sz-rosImre_programbasics\Imre_programingbasics\Imre_programingbasics\obj\Debug\net6.0\Imre_programingbasics.pdb
+C:\Users\3dstu\Desktop\Projektek\M-sz-rosImre_programbasics\Imre_programingbasics\Imre_programingbasics\obj\Debug\net6.0\Imre_programingbasics.genruntimeconfig.cache
+C:\Users\3dstu\Desktop\Projektek\M-sz-rosImre_programbasics\Imre_programingbasics\Imre_programingbasics\obj\Debug\net6.0\ref\Imre_programingbasics.dll
