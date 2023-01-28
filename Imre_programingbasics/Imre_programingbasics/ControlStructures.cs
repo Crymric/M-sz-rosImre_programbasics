@@ -150,9 +150,10 @@ for (int i = 1; i <= 10; i++)
 }
 */
 
+
 //-------------------
 // Metódusok
-
+/*
 double f1 = 12.5f;
 double f2 = 3;
 
@@ -160,5 +161,13 @@ double power = Math.Pow(f1,f2);
 double power2 = Math.Pow(45, 11.5);
 
 double f3 = Math.Abs(f1);
-
 double pi = Math.PI;
+double f4 = Math.Sqrt(f2);
+*/
+
+/*
+var v1 = 4;       //var vst2022 találja ki, hogy mi ez, ez int
+var v2 = 5.65f;   //double lesz a var
+var v3 = "5.55";  //string lesz
+var v4 = true;    //bool
+*/
