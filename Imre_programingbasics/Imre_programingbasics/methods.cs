@@ -11,8 +11,9 @@ WriteCounting(5);
 WriteCounting(16);
 */
 
-WriteFirstNPrime(100);
+//WriteFirstNPrime(100);
 
+/*
 float Abs(float input) //metódus, abszolút értékké alakítás
 {
     if (input < 0) //ha nagyobb, mint 0
@@ -57,3 +58,5 @@ void WriteFirstNPrime(int n)  //prím számokat irítunk ki, WriteFirstNPrime(10
         }
     }
 }
+*/
+
